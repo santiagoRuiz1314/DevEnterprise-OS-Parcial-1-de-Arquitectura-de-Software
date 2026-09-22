@@ -8,7 +8,9 @@ Los métodos no tienen lógica de negocio compleja ni persistencia: ejecutan có
 
 ## Diagrama UML
 
-![Diagrama de clases de DevEnterprise OS](diagrama.jpeg)
+[![Diagrama de clases de DevEnterprise OS](DevEnterprise%20OS-Evaluacion.drawio.svg)](DevEnterprise%20OS-Evaluacion.drawio.svg)
+
+> Haz clic en el diagrama para abrirlo a tamaño completo. El archivo `.drawio.svg` también puede abrirse y editarse en [draw.io](https://app.diagrams.net).
 
 ## Estructura del proyecto
 
